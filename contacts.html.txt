@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Контакты — Школьный блог 9В</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Контакты</h1>
+        <nav>
+            <a href="index.html">Главная</a>
+            <a href="achievements.html">Достижения</a>
+            <a href="photos.html">Фотоальбом</a>
+            <a href="contacts.html">Контакты</a>
+        </nav>
+        <p>Связаться с нами:</p>
+        <ul>
+            <li>Email: 9v@school.ru</li>
+            <li>Группа ВК: vk.com/9v_class</li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Фотоальбом — Школьный блог 9В</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Фотоальбом</h1>
+        <nav>
+            <a href="index.html">Главная</a>
+            <a href="achievements.html">Достижения</a>
+            <a href="photos.html">Фотоальбом</a>
+            <a href="contacts.html">Контакты</a>
+        </nav>
+        <p>Фотографии с мероприятий класса.</p>
+        <img src="images/event1.jpg" alt="Мероприятие 1" width="300">
+        <img src="images/event2.jpg" alt="Мероприятие 2" width="300">
+    </div>
+</body>
+</html>

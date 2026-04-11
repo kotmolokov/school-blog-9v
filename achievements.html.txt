@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Наши достижения — Школьный блог 9В</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Наши достижения</h1>
+        <nav>
+            <a href="index.html">Главная</a>
+            <a href="achievements.html">Достижения</a>
+            <a href="photos.html">Фотоальбом</a>
+            <a href="contacts.html">Контакты</a>
+        </nav>
+        <ul>
+            <li>Заняли 1 место в школьной олимпиаде по информатике.</li>
+            <li>Организовали экологическую акцию «Чистый двор».</li>
+            <li>Приняли участие в городском конкурсе чтецов.</li>
+        </ul>
+    </div>
+</body>
+</html>
